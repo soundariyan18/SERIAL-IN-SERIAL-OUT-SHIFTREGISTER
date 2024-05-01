@@ -60,9 +60,11 @@ endmodule
 ```
 
 **RTL LOGIC FOR SISO Shift Register**
+
 <img width="960" alt="RTL serial_in_out" src="https://github.com/Ganesh23013987/SERIAL-IN-SERIAL-OUT-SHIFTREGISTER/assets/147473768/2d5be6cd-69b9-4450-adb0-defc90a90232">
 
 **TIMING DIGRAMS FOR SISO Shift Register**
+
 <img width="960" alt="10 th exp serial_in_serial_out  " src="https://github.com/Ganesh23013987/SERIAL-IN-SERIAL-OUT-SHIFTREGISTER/assets/147473768/6c19cc2a-61c0-40a9-bd98-fe9331dd9311">
 
 
